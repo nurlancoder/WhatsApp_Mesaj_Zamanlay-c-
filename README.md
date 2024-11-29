@@ -25,7 +25,6 @@ Bu projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerini yükl
 ## Gereksinimlerin Kurulumu
 Aşağıdaki komut ile gerekli kütüphaneleri kurabilirsiniz:
 
-bash
 pip install pywhatkit schedule
 
 Kullanım
