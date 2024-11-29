@@ -27,6 +27,7 @@ Aşağıdaki komut ile gerekli kütüphaneleri kurabilirsiniz:
 
 bash
 pip install pywhatkit schedule
+
 Kullanım
 whatsapp_auto.py dosyasını çalıştırın.
 
